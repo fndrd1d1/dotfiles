@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/Dietrich/programming/statictest'
+let g:netrw_dirhist_2='/Users/Dietrich/projects/audi/notes'
+let g:netrw_dirhist_3='/Users/Dietrich/programming'
+let g:netrw_dirhist_4='/Users/Dietrich/programming/lru'
+let g:netrw_dirhist_5='/Users/Dietrich/projects/audi/scripts'
+let g:netrw_dirhist_6='/Users/Dietrich/git-repos/labsessions/021-skyline/stefan.schwarz'
+let g:netrw_dirhist_7='/Users/Dietrich/programming/effectivecpp'
+let g:netrw_dirhist_8='/Users/Dietrich/projects/bsw/central/modules/timer/include'

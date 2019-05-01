@@ -1,0 +1,14 @@
+https://github.com/kien/ctrlp.vim.git
+https://github.com/mattn/emmet-vim.git
+https://github.com/scrooloose/nerdtree.git
+https://github.com/rust-lang/rust.vim.git
+https://github.com/scrooloose/syntastic.git
+https://github.com/majutsushi/tagbar
+https://github.com/SirVer/ultisnips.git
+https://github.com/bling/vim-airline
+git://github.com/will133/vim-dirdiff
+git://github.com/tpope/vim-fugitive.git
+https://github.com/xolox/vim-misc.git
+https://github.com/xolox/vim-notes.git
+https://github.com/tpope/vim-surround.git
+https://github.com/christoomey/vim-tmux-navigator.git

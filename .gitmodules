@@ -1,0 +1,48 @@
+[submodule "osx/.vim/bundle/ag.vim"]
+	path = osx/.vim/bundle/ag.vim
+	url = https://github.com/rking/ag.vim
+[submodule "osx/.vim/bundle/auto-pairs"]
+	path = osx/.vim/bundle/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "osx/.vim/bundle/ctrlp.vim"]
+	path = osx/.vim/bundle/ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim.git
+[submodule "osx/.vim/bundle/emmet-vim"]
+	path = osx/.vim/bundle/emmet-vim
+	url = https://github.com/mattn/emmet-vim.git
+[submodule "osx/.vim/bundle/nerdtree"]
+	path = osx/.vim/bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "osx/.vim/bundle/rust.vim"]
+	path = osx/.vim/bundle/rust.vim
+	url = https://github.com/rust-lang/rust.vim.git
+[submodule "osx/.vim/bundle/syntastic"]
+	path = osx/.vim/bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "osx/.vim/bundle/tagbar"]
+	path = osx/.vim/bundle/tagbar
+	url = https://github.com/majutsushi/tagbar
+[submodule "osx/.vim/bundle/ultisnips"]
+	path = osx/.vim/bundle/ultisnips
+	url = https://github.com/SirVer/ultisnips.git
+[submodule "osx/.vim/bundle/vim-airline"]
+	path = osx/.vim/bundle/vim-airline
+	url = https://github.com/bling/vim-airline
+[submodule "osx/.vim/bundle/vim-dirdiff"]
+	path = osx/.vim/bundle/vim-dirdiff
+	url = git://github.com/will133/vim-dirdiff
+[submodule "osx/.vim/bundle/vim-fugitive"]
+	path = osx/.vim/bundle/vim-fugitive
+	url = git://github.com/tpope/vim-fugitive.git
+[submodule "osx/.vim/bundle/vim-misc"]
+	path = osx/.vim/bundle/vim-misc
+	url = https://github.com/xolox/vim-misc.git
+[submodule "osx/.vim/bundle/vim-notes"]
+	path = osx/.vim/bundle/vim-notes
+	url = https://github.com/xolox/vim-notes.git
+[submodule "osx/.vim/bundle/vim-surround"]
+	path = osx/.vim/bundle/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "osx/.vim/bundle/vim-tmux-navigator"]
+	path = osx/.vim/bundle/vim-tmux-navigator
+	url = https://github.com/christoomey/vim-tmux-navigator.git
